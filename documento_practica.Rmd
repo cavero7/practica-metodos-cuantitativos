@@ -9,4 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-NOMRBES: Alberto Dalmau García, Carlos Mateo Martínez y Alexis Cavero Arocas 
+NOMRBES: Alberto Dalmau García, Carlos Mateo Martínez y Alexis Cavero Arocas .
+
+Soy carlos
