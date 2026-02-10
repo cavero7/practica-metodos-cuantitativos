@@ -1,0 +1,12 @@
+---
+title: "documento"
+author: "Alexis Cavero Arocas y Carlos Mateo Martínez"
+date: "2026-02-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+NOMRBES: Alberto Dalmau García, Carlos Mateo Martínez y Alexis Cavero Arocas 
